@@ -25,3 +25,4 @@ function prependCat(name){
 function appendCat(name){
     return [...cats, name];
 }
+console.log(removeFirstCat());
